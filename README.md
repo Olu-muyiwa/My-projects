@@ -1,6 +1,5 @@
 THE SECOND PROJECT (DATA WRANGLING)
 
-
 The second project involves methodology of data wrangling.
 
 This second project has to do with data wrangling. Wrangling Data includes; Data gathering, 
