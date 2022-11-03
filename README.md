@@ -1,4 +1,4 @@
-THE SECOND PROJECT (DATA WRANGLING)
+**THE SECOND PROJECT (DATA WRANGLING)**
 
 The second project involves methodology of data wrangling.
 
